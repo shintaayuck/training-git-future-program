@@ -4,3 +4,5 @@ Tata
 Eunike
 Rani
 Sinta
+Ricky
+Agung
